@@ -28,7 +28,7 @@ for the traditional model:
 
 ## Results
 
-<b> Looking at the F1 metric of the test set now:</b>
+<u><b> Looking at the F1 metric of the test set now:</b></u>
 
 ### Traditional model (ANN - Artificial neural network):
 
