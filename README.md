@@ -28,7 +28,7 @@ for the traditional model:
 
 ## Results
 
-** Looking at the F1 metric of the test set now: **
+<b> Looking at the F1 metric of the test set now:</b>
 
 ### Traditional model (ANN - Artificial neural network):
 
@@ -37,5 +37,7 @@ for the traditional model:
 ### SNN (Spiking neural network):
 
 ![Spikemodel](snnmodel.png)
+
+
 
 
