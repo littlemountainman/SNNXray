@@ -2,4 +2,4 @@
 .ipynb_checkpoints/
 DS2
 *.h5
-
+./.vscode/
